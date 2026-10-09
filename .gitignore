@@ -1,0 +1,14 @@
+.gradle/
+build/
+.kotlin/
+.idea/
+local.properties
+keystore.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+# von tools/fetch_sherpa.sh und tools/fetch_voices.sh geladen
+app/src/main/jniLibs/
+app/src/main/assets/voices/
+app/src/main/assets/espeak-ng-data/

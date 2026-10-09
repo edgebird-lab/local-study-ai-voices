@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Local Study AI Voices</string>
+    <string name="intro">Companion app for Local Study AI: natural offline voices for reading aloud (German: Thorsten, English: LJSpeech). Local Study AI uses them automatically once this app is installed. You can also choose it as the default speech engine in your device settings.</string>
+    <string name="status_checking">Checking …</string>
+    <string name="status_ready">Ready: the voices are built in and work without internet.</string>
+    <string name="status_missing">The voice data is missing in this installation.</string>
+    <string name="listen">Listen: %1$s</string>
+    <string name="choose_default">Choose as default speech engine …</string>
+    <string name="privacy">This app needs no permissions, sends nothing and stores nothing except unpacked speech data. Everything runs on your device.</string>
+    <string name="license">Free software under the GNU General Public License, version 3 or later (contains eSpeak NG). Piper models (MIT), sherpa-onnx and ONNX Runtime (Apache-2.0, MIT). Voice "Thorsten": CC0, "LJSpeech": public domain. NO WARRANTY.</string>
+    <string name="source">View source code</string>
+</resources>

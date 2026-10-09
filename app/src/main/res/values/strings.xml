@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Local Study AI Stimmen</string>
+    <string name="intro">Zusatz-App für Local Study AI: natürliche Offline-Stimmen zum Vorlesen (Deutsch: Thorsten, Englisch: LJSpeech). Local Study AI nutzt sie automatisch, sobald diese App installiert ist. Du kannst sie auch in den Einstellungen deines Geräts als Standard-Sprachausgabe wählen.</string>
+    <string name="status_checking">Prüfe …</string>
+    <string name="status_ready">Bereit: Die Stimmen sind eingebaut und arbeiten ohne Internet.</string>
+    <string name="status_missing">Die Stimmendaten fehlen in dieser Installation.</string>
+    <string name="listen">Hörprobe: %1$s</string>
+    <string name="choose_default">Als Standard-Sprachausgabe wählen …</string>
+    <string name="privacy">Diese App braucht keine Berechtigungen, sendet nichts und speichert nichts außer entpackten Sprachdaten. Alles läuft auf deinem Gerät.</string>
+    <string name="license">Freie Software unter der GNU General Public License, Version 3 oder später (enthält eSpeak NG). Piper-Modelle (MIT), sherpa-onnx und ONNX Runtime (Apache-2.0, MIT). Stimme „Thorsten“: CC0, „LJSpeech“: gemeinfrei. KEINE GARANTIE.</string>
+    <string name="source">Quelltext ansehen</string>
+</resources>
